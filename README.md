@@ -1,2 +1,2 @@
 # jpetcf
-Test s3 sync
+Test s3 sync. Sync
